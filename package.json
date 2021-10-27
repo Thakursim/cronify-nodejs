@@ -1,0 +1,22 @@
+{
+  "name": "poc-cronofy",
+  "version": "1.0.0",
+  "description": "Test Cronofy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thakursim/poc-cronofy.git"
+  },
+  "author": "Simran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thakursim/poc-cronofy/issues"
+  },
+  "homepage": "https://github.com/Thakursim/poc-cronofy#readme",
+  "dependencies": {
+    "cronofy": "^3.5.1"
+  }
+}
